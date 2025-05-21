@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduleWeb.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduleWeb.Infrastructure", "TrainScheduleWeb.Infrastructure\TrainScheduleWeb.Infrastructure.csproj", "{846A6497-E531-41CB-9AC7-AFC46F76342D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSchedule.Application", "TrainSchedule.Application\TrainSchedule.Application.csproj", "{D582D2EE-2275-49C5-813B-C308E214954A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D582D2EE-2275-49C5-813B-C308E214954A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D582D2EE-2275-49C5-813B-C308E214954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D582D2EE-2275-49C5-813B-C308E214954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D582D2EE-2275-49C5-813B-C308E214954A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

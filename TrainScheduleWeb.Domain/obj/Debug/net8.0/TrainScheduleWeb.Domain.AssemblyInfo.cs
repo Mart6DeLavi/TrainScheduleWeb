@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainScheduleWeb.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a4e1d1528a4385ea384bc2f96af072335093ce9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd78b6fb2fcf0e950ab1d319d653808fa9e023a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainScheduleWeb.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainScheduleWeb.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
