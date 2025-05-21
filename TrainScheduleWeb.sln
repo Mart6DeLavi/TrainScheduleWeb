@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduleWeb", "TrainScheduleWeb.csproj", "{A911FB9D-BDEC-44A7-9216-D65B24AAB7ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduleWeb.Domain", "TrainScheduleWeb.Domain\TrainScheduleWeb.Domain.csproj", "{0FFCCA2E-50B6-44F0-BBC5-F962CF17FA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduleWeb.Infrastructure", "TrainScheduleWeb.Infrastructure\TrainScheduleWeb.Infrastructure.csproj", "{846A6497-E531-41CB-9AC7-AFC46F76342D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A911FB9D-BDEC-44A7-9216-D65B24AAB7ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A911FB9D-BDEC-44A7-9216-D65B24AAB7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A911FB9D-BDEC-44A7-9216-D65B24AAB7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A911FB9D-BDEC-44A7-9216-D65B24AAB7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFCCA2E-50B6-44F0-BBC5-F962CF17FA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFCCA2E-50B6-44F0-BBC5-F962CF17FA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFCCA2E-50B6-44F0-BBC5-F962CF17FA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFCCA2E-50B6-44F0-BBC5-F962CF17FA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846A6497-E531-41CB-9AC7-AFC46F76342D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
