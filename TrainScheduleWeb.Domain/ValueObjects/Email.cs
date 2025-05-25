@@ -1,5 +1,6 @@
-namespace TrainScheduleWeb.Domain.ValueObjects;
 using System.ComponentModel.DataAnnotations;
+
+namespace TrainScheduleWeb.Domain.ValueObjects;
 
 public record Email
 {

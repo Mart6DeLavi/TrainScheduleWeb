@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TrainScheduleWeb.Api.props" />
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrainScheduleWeb.Domain/1.0.0": {
+        "runtime": {
+          "TrainScheduleWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrainScheduleWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

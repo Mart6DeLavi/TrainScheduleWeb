@@ -1,0 +1,12 @@
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/bin/Debug/net8.0/TrainScheduleWeb.Domain.deps.json
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/bin/Debug/net8.0/TrainScheduleWeb.Domain.dll
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/bin/Debug/net8.0/TrainScheduleWeb.Domain.pdb
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.AssemblyInfoInputs.cache
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.AssemblyInfo.cs
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.csproj.CoreCompileInputs.cache
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.sourcelink.json
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.dll
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/refint/TrainScheduleWeb.Domain.dll
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/TrainScheduleWeb.Domain.pdb
+/Users/martix_de_lavi/University/FourthSemester/Programing/TrainScheduleWeb/TrainScheduleWeb.Domain/obj/Debug/net8.0/ref/TrainScheduleWeb.Domain.dll

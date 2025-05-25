@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iCichEK9yXuA+Ys9ubcix4AHXil3WUfVX9E/iC5L2+Y=",
+  "Source": "TrainScheduleWeb.Api",
+  "BasePath": "_content/TrainScheduleWeb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
