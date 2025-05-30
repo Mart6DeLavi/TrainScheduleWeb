@@ -4,6 +4,7 @@ namespace TrainScheduleWeb.Domain.Repositories;
 
 public interface ITrainRepository
 {
+    Task<List<Train>> GetAllTrains();
     Task<Train?> GetTrainById(Guid trainId);
     Task<Train?> GetTrainByArrivalTime(TimeSpan arrivalTime);
     Task<Train?> GetTrainByDepartureTime(TimeSpan departureTime);

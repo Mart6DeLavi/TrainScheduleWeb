@@ -14,6 +14,11 @@ public class TrainService
         _trainRepository = trainRepository;
     }
 
+    public async Task<List<Train>> GetAllTrains()
+    {
+        return await _trainRepository.GetAllTrains();
+    }
+
     public async Task<Train?> GetTrainById(Guid trainId)
     {
         return await _trainRepository.GetTrainById(trainId);

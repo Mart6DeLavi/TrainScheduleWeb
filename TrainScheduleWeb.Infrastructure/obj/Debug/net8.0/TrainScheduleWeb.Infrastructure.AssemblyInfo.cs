@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainScheduleWeb.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae00909fae34ec92c8492aed4856f435b2d6c8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c47790bb204aa5a73271862973df1f90d6e1ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainScheduleWeb.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainScheduleWeb.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

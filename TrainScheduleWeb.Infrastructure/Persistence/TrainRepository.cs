@@ -14,6 +14,11 @@ public class TrainRepository : ITrainRepository
         _context = context;
     }
 
+    public async Task<List<Train>> GetAllTrains()
+    {
+        return await _context.Trains.ToListAsync();
+    }
+
     public async Task<Train?> GetTrainById(Guid trainId)
     {
         return await _context.Trains.FindAsync(trainId);

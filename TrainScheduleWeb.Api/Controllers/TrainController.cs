@@ -6,7 +6,7 @@ using TrainScheduleWeb.Domain.Entities;
 namespace TrainScheduleWeb.Api.Controllers;
 
 [ApiController]
-[Route("api/v1/trains")]
+[Route("/api/v1/trains")]
 public class TrainController : ControllerBase
 {
     private readonly TrainService _trainService;
@@ -14,6 +14,14 @@ public class TrainController : ControllerBase
     public TrainController(TrainService trainService)
     {
         _trainService = trainService;
+    }
+
+    // GET /api/v1/trains
+    [HttpGet]
+    public async Task<ActionResult<List<Train>>> GetAllTrains()
+    {
+        var trains = await _trainService.GetAllTrains();
+        return Ok(trains);
     }
 
     // GET /api/v1/trains/get/{trainId}
